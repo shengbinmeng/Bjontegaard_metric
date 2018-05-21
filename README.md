@@ -1,6 +1,8 @@
 # Bjontegaard_metric
 Bjontegaard metric calculation. Include BD-PSNR and BD-rate.
 
+See `demo.py` for usage.
+
 References:
 [1] G. Bjontegaard, Calculation of average PSNR differences between
     RD-curves (VCEG-M33)
